@@ -1,0 +1,24 @@
+Administrator@JAVA MINGW64 ~
+$ pwd
+/c/Users/Administrator
+
+Administrator@JAVA MINGW64 ~
+$ cd c:/gittest
+
+Administrator@JAVA MINGW64 /c/gittest
+$ git config --global user.name "asha wadekar"
+
+Administrator@JAVA MINGW64 /c/gittest
+$ git config --global user.email "asha_wadekar@persistent.com"
+
+Administrator@JAVA MINGW64 /c/gittest
+$ git config --list
+
+Administrator@JAVA MINGW64 /c/gittest
+$ git init
+
+Administrator@JAVA MINGW64 /c/gittest (master)
+$ git add file1.txt
+
+Administrator@JAVA MINGW64 /c/gittest (master)
+$ git status
